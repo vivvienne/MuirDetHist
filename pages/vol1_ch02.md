@@ -28,28 +28,28 @@ exemple soyent proposées trois equations simples pour deux inconnues à dessein
 > on le nombre feint estant de deux characteres, le premier me marque de quelle equation il est, le second me marque à quelle lettre il appartient. Ainsi en calculant on trouve par tout des harmonies qui non seulement nous servent de garans, mais encor nous font entrevoir d’abord des regles ou theoremes. Par exemple ostant premierement *y* par la premiere et la seconde equation, nous aurons:
 >
 > $$
-> \begin{align*} + 10 . 22 + 11 . 22x \\ - 12 . 20 - 12 . 21..\end{align*} = 0 \tag{4}
+> \begin{array}{c} + 10 . 22 + 11 . 22x \\ - 12 . 20 - 12 . 21..\end{array} = 0 \tag{4}
 > $$[^v1ch01-leibniz1693-1] et par la premiere et troisieme nous aurons:
 >
 > $$
-> \begin{align*} + 10 . 32 + 11 . 32x \\ - 12 . 30 - 12 . 31..\end{align*} = 0 \tag{5}
+> \begin{array}{c} + 10 . 32 + 11 . 32x \\ - 12 . 30 - 12 . 31..\end{array} = 0 \tag{5}
 > $$
 >
 > on il est aise de connoistre que ces deux equations ne different qu’en ce que le charactere antecedent 2 est changé au charactere, antecedent 3. Du reste, dans un même terme d’une même equation les characteres antecedens sont les mêmes, et les characteres posterieurs font une même somme. Il reste maintenant d’oster la lettre *x* par la quatrieme et cinquieme equation, et pour cet effect nous aurons[^v1ch01-leibniz1693-2]
 > 
 > $$
-> \begin{align*}
+> \begin{array}{c}
 > 1_0 . 2_1 . 3_2 \\
 > 1_1 . 2_2 . 3_0 \\
 > 1_2 . 2_0 . 3_1
-> \end{align*} =
-> \begin{align*}
+> \end{array} =
+> \begin{array}{c}
 > 1_0 . 2_2 . 3_1 \\
 > 1_1 . 2_0 . 3_2 \\
 > 1_2 . 2_1 . 3_0
-> \end{align*}
+> \end{array}
 > $$
->
+> 
 > qui est la derniere equation delivrée des deux inconnues qu’on vouloit oster, et qui porte sa preuve avec soy par les harmonies qui se remarquent par tout, et qu’on auroit bien de la peine à decouvrir en employant des lettres *a*, *b*, *c*, sur tout lors que le nombre des lettres et des equations est grand. Une partie du secret de l'analyse consiste dans la caracteristique, c’est à dire dans l’art de bien employer les notes dont on se sert, et vous voyés, Monsieur, par ce petit echantillon que Viete et des Cartes n'en ont pas encor connu tous les mysteres. En poursuivant tant soit pen ce calcul on viendra à un *theoreme general* pour quelque nombre de lettres et d’equations simples qu’on puisse prendre. Le voicy comme je l’ay trouvé autres fois:
 >
 > *"Datis aequationibus quotcunque sufficientibus ad tollendas quantitates, quae simplicem gradum non egrediuntur, pro aequatione prodeunte, primo sumendae sunt omnes combinationes possibiles, quas ingreditur una tantum coefficiens uniuscujusque aequationis: secundo, eae combinationes opposita habent signa, si in eodem aequationis prodeuntis latere ponantur, quae habent tot coefficientes communes, quot sunt unitates in numero quantitatum tollendarum unitate minuto: caeterae habent eadem signa.*
