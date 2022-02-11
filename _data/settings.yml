@@ -8,6 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'vol 1',  url: 'vol1_menu'}
+- {name: 'test page',  url: 'test_page'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 #social:
