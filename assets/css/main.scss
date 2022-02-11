@@ -1,8 +1,8 @@
 ---
 ---
 
-$base-font-family: 'Libertinus Sans', sans-serif;
-$body-font-family: 'Libertinus Sans', sans-serif;
+$base-font-family: 'Libertinus Sans', 'Roboto', sans-serif;
+$body-font-family: 'Libertinus Sans', 'Roboto', sans-serif;
 $code-font-family: "Source Code Pro", monospace;
 
 $brand-color: black;
@@ -27,3 +27,8 @@ $codepen-color: black;
 $rss-color: #ff6600;
 
 @import "-sections-dir";
+
+.page-content {
+	max-width: 900px;
+	font-size: 1.25em;
+}
