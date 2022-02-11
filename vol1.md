@@ -250,12 +250,14 @@ exemple soyent proposées trois equations simples pour deux inconnues à dessein
 
 [^v1ch01-leibniz1693-2]: The author here slightly changes his notation. What is meant to be indicated is
 
-	$$10.21.32 + *11.22.30 + 12.20.31 = 10.22.31 + 11.20.32 + 12.21.30.$$
+	$$10.21.32 + 11.22.30 + 12.20.31 = 10.22.31 + 11.20.32 + 12.21.30.$$
 
 It will be seen that what this amounts to is the *formation of a rule for writing out the resultant of a set of linear equations.* When the problem is presented of eliminating *x* and *y* from the equations
 
 $$
-a + bx + cy = 0, d + ex + fy = 0, g + hx + ky = 0,
+\begin{array}{ccc}
+a + bx + cy = 0, & d + ex + fy = 0, & g + hx + ky = 0,
+\end{array}
 $$
 
 Leibnitz in effect says that first of all he prefers to write 10 for *a*, 11 for *b*, and so on; that, having done this, he can all the more readily take the next step, viz., forming every possible product whose factors are one coefficient from each equation,[^v1ch01-leibniz1693-3] the result being
@@ -263,10 +265,10 @@ Leibnitz in effect says that first of all he prefers to write 10 for *a*, 11 for
 [^v1ch01-leibniz1693-3]: Of course, this is not exactly what Leibnitz meant to say.
 
 $$
-\begin{align*}
-10.21.32, && 10.22.31, && 11.20.32 &, \\
-11.22.30, && 12.20.31, && 12.21.30 &\text{ ;}
-\end{align*}
+\begin{array}{ccl}
+10.21.32, & 10.22.31, & 11.20.32, \\
+11.22.30, & 12.20.31, & 12.21.30\text{ ;}
+\end{array}
 $$
 
 and that, then, *one* being the number which is less by one than the number of unknowns, he makes those terms different in sign which have only *one* factor in common.
