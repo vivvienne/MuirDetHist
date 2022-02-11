@@ -12,10 +12,10 @@ $$
 \frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac {\partial  L}{\partial \dot{q}_j} \right ) =  \frac {\partial L}{\partial q_j}
 $$
 
-$$
-\begin{align}
-10 + 11x + 12y &= 0 & (1) \\
-20 + 21x + 22y &= 0 & (2) \\
-30 + 31x + 32y &= 0 & (3)
-\end{align}
-$$
+> $$
+> \begin{align*}
+> 10 + 11x + 12y &= 0 & (1) \\
+> 20 + 21x + 22y &= 0 & (2) \\
+> 30 + 31x + 32y &= 0 & (3)
+> \end{align*}
+> $$

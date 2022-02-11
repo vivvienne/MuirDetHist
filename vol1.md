@@ -206,3 +206,11 @@ In the fourth letter of the published correspondence between Leibnitz and De L�
 
 > "Puisque vous dites que vous avés de la peine à croire qu’il soit aussi general et aussi commode de se servir des nombres que des lettres, il faut que je ne me sois pas bien expliqué. On ne sçauroit douter de la generalité en considerant qu’il est permis de se servir de 2, 3, etc., comme d’*a* ou de *b*, pour veu qu’on considere que ce ne sont pas de nombres veritables. Ainsi 2.3 ne signifie point 6 mais autant qu’*ab*. Pour ce qui est de la commodité, il y en a des tres grandes, ce qui fait que je m’en sers souvent, sur tout dans les calculs longs et difficiles ou il est aisé de se tromper. Car outre la commodité de l’épreuve par des nombres, et même par l’abjection du novenaire, j’y trouve un tres grand avantage même pour l’avancement de l’Analyse. Comme c’est une ouverture assez extraordinaire, je n’en ay pas encor parlé à d’autres, mais voicy ce que c’est. Lorsqu’on a besoin de beaucoup de lettres, n’est il pas vray que ces lettres n’expriment point les rapports qu’il y a entre les grandeurs qu’elles signifient, au lieu qu’en me servant des nombres je puis exprimer ce rapport. Par
 exemple soyent proposées trois equations simples pour deux inconnues à dessein d’oster ces deux inconnues, et cela par un canon general. Je suppose
+>
+> $$
+> \begin{align*}
+> 10 + 11x + 12y &= 0 & (1) \\
+> 20 + 21x + 22y &= 0 & (2) \\
+> 30 + 31x + 32y &= 0 & (3)
+> \end{align*}
+> $$
