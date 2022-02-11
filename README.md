@@ -14,9 +14,10 @@ Please note that my main aim is to read the book, manually correcting on the way
   - [single markdown file](vol1.md)
   - [read on the web](https://vivvienne.github.io/MuirDetHist/)
 
-## Technical details
+## Implimentation (conversion) details
 
 - The target format is planned to be Markdown with raw html (for marking additional typographical formatting, especially small caps) and TeX (for math).
-- The markdown files will not be an exact reproduction of the original text. Generally, book-format specific information that are not necessary for normal viewing of continuous markdown files, such as page headers and footers, page numbers, and pagination in general will be omitted. Also, line breaks and line-end hyphens in the original text will not be preserved.
+- The markdown files will not be an exact reproduction of the original text. Generally, book-format specific information that are not necessary for normal viewing of continuous markdown files, such as page headers and footers, page numbers, and pagination in general will be omitted. Also, line breaks in a single paragraph and line-end hyphens in the original text will not be preserved.
 - On the other hand, typographical formatting (such as italics and small caps) will be preserved.
 - Conversion is done by manually visual inspection, that is, comparing the OCR text to the pdf file and correcting errors.
+- The online version differs in minor details to optimize for online viewing. For example, ToC tables are converted into unordered lists, subsections in chapters may be divided into separate pages and their internal subsection structure flattened.
