@@ -20,6 +20,4 @@ $$
 > \end{align*}
 > $$
 
-> $$
-> \begin{align*} + 10 . 22 &+ 11 . 22x \\ - 12 . 20 &- 12 . 21..\end{align*} = 0 \tag*{(4)*}
-> $$
+This is written shortly for $$\left.\begin{align*} + 10 . 22 + 11 . 22x &= 0 \\ - 12 . 20 - 12 . 21x &= 0\end{align*} \right\}.$$

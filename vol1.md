@@ -209,11 +209,24 @@ exemple soyent proposées trois equations simples pour deux inconnues à dessein
 >
 > $$
 > \begin{align*}
-> && 10 + 11x + 12y &= 0 & (1) \\
-> & \text{et } & 20 + 21x + 22y &= 0 & (2) \\
-> & \text{et } & 30 + 31x + 32y &= 0 & (3)
+> && 10 + 11x + 12y &= 0 \tag{1} \\
+> & \text{et } & 20 + 21x + 22y &= 0 \tag{2} \\
+> & \text{et } & 30 + 31x + 32y &= 0 \tag{3}
 > \end{align*}
 > $$
 >
 > on le nombre feint estant de deux characteres, le premier me marque de quelle equation il est, le second me marque à quelle lettre il appartient. Ainsi en calculant on trouve par tout des harmonies qui non seulement nous servent de garans, mais encor nous font entrevoir d’abord des regles ou theoremes. Par exemple ostant premierement *y* par la premiere et la seconde equation, nous aurons:
-> 
+>
+> $$
+> \begin{align*} + 10 . 22 + 11 . 22x \\ - 12 . 20 - 12 . 21..\end{align*} = 0 \tag{4}
+> $$[^leibniz-eq-4]
+>
+> et par la premiere et troisieme nous aurons:
+>
+> $$
+[> \begin{align*} + 10 . 32 &+ 11 . 32x \\ - 12 . 30 &- 12 . 31..\end{align*} = 0 \tag{5}
+]> $$
+>
+> on il est aise de connoistre que ces deux equations ne different qu’en ce que le charactere antecedent 2 est changé au charactere, antecedent 3. Du reste, dans un même terme d’une même equation les characteres antecedens sont les mêmes, et les characteres posterieurs font une même somme. Il reste maintenant d’oster la lettre *x* par la quatrieme et cinquieme equation, et pour cet effect nous aurons
+
+[^leibniz-eq-4]: This is written shortly for $$\left.\begin{align*} + 10 . 22 + 11 . 22x &= 0 \\ - 12 . 20 - 12 . 21x &= 0\end{align*} \right\}.$$
