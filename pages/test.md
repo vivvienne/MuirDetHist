@@ -21,3 +21,8 @@ $$
 > $$
 
 This is written shortly for $$\left.\begin{align*} + 10 . 22 + 11 . 22x &= 0 \\ - 12 . 20 - 12 . 21x &= 0\end{align*} \right\}.$$
+
+> $$
+> \begin{align*} 1_0 . 2_1 . 3_2 \\ 1_1 . 2_2 . 3_0 \\ 1_2 . 2_0 . 3_1 \end{align*} =
+> \begin{align*} 1_0 . 2_2 . 3_1 \\ 1_1 . 2_0 . 3_2 \\ 1_2 . 2_1 . 3_0 \end{align*}
+> $$
