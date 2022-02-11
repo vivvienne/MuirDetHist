@@ -209,9 +209,10 @@ exemple soyent proposées trois equations simples pour deux inconnues à dessein
 >
 > $$
 > \begin{align*}
-> & 10 + 11x + 12y &= 0 & (1) \\
-> \text{et } & 20 + 21x + 22y &= 0 & (2) \\
-> \text{et } & 30 + 31x + 32y &= 0 & (3)
+> && 10 + 11x + 12y &= 0 & (1) \\
+> & \text{et } & 20 + 21x + 22y &= 0 & (2) \\
+> & \text{et } & 30 + 31x + 32y &= 0 & (3)
 > \end{align*}
 > $$
-> 
+>
+> on le nombre feint estant de deux characteres, le premier me marque de quelle equation il est, le second me marque à quelle lettre il appartient. Ainsi en calculant on trouve par tout des harmonies qui non seulement nous servent de garans, mais encor nous font entrevoir d’abord des regles ou theoremes. Par exemple ostant premierement *y* par la premiere et la seconde equation, nous aurons:
