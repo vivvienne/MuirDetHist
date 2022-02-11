@@ -48,7 +48,7 @@ T. M.
 ### *PART I*
 
 - CHAPTER I. [<span style='font-variant: small-caps'>Introduction</span>,	1-5](vol1_ch01.md)
-- CHAPTER II. <span style='font-variant: small-caps'>General Determinants</span>, 1693-1779,		6-52
+- CHAPTER II. [<span style='font-variant: small-caps'>General Determinants</span>, 1693-1779,		6-52](vol1_ch02.md)
   - <span style='font-variant: small-caps'>Leibnitz</span>(1693),	pp. 6-10
   - <span style='font-variant: small-caps'>Fontaine</span>(1748),	10-11
   - <span style='font-variant: small-caps'>Cramer</span>(1750),	11-14
