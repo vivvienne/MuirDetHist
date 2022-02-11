@@ -1,4 +1,8 @@
-# The theory of determinants in the historical order of development
+---
+layout: page
+title: The theory of determinants in the historical order of development
+permalink: /vol1
+---
 
 ## title pages
 ### title page 1
