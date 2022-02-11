@@ -4,18 +4,18 @@ title: The theory of determinants in the historical order of development
 permalink: /vol1_menu
 ---
 
-## title pages
-### title page 1
+## title page 1
 THE THEORY OF DETERMINANTS
 IN THE HISTORICAL ORDER OF DEVELOPMENT
 
-### title page 2
+## title page 2
 THE
 THEORY OF DETERMINANTS
 IN THE
 HISTORICAL ORDER OF DEVELOPMENT
 
 PART I. GENERAL DETERMINANTS UP TO 1841
+
 PART II. SPECIAL DETERMINANTS UP TO 1841
 
 BY
@@ -31,7 +31,7 @@ NEW YORK: THE MACMILLAN COMPANY
 
 *All rights reserved*
 
-### title page 3
+## title page 3
 GLASGOW: PRINTED AT THE UNIVERSITY PRESS
 BY ROBERT MACLEHOSE AND CO. LTD.
 
