@@ -13,9 +13,9 @@ $$
 $$
 
 $$
-\begin{equation}\begin{aligned}
+\begin{equation*}\begin{aligned}
 10 + 11x + 12y &= 0 & (1) \\
 20 + 21x + 22y &= 0 & (2) \\
 30 + 31x + 32y &= 0 & (3)
-\end{aligned}\end{equation}\tag{2}\label{eq2}
+\end{aligned}\end{equation*}\tag{2}\label{eq2}
 $$
