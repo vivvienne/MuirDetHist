@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'vol 1',  url: 'vol1'}
+- {name: 'vol 1',  url: 'vol1_menu'}
 #- {name: 'Interesting Facts',  url: 'facts'}
 #- {name: 'Learning Resources', url: 'resources'}
 #- {name: 'Sample Posts',       url: 'sample-posts'}
