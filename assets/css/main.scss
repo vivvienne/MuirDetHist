@@ -1,5 +1,12 @@
 ---
 ---
+:root{
+	--color-tab-header-active: #428bff;
+	--color-tab-header-inactive: #222222;
+	--color-tab-header-semiactive: #888888;
+	--number-of-tabs: 2;
+	--width-tab: calc(100% / var(--number-of-tabs));
+}
 
 $base-font-family: 'Libertinus Sans', 'Avenir Next', 'Roboto', sans-serif;
 $body-font-family: 'Libertinus Sans', 'Avenir Next', 'Roboto', sans-serif;
@@ -34,4 +41,98 @@ $rss-color: #ff6600;
 }
 .footnotes {
 	border-top: 1px solid currentColor;
+}
+
+/*----- BOX WITH TABS ------*/
+.tabs {
+	left: 50%;
+	transform: translateX(-50%);
+	position: relative;
+	background: #dddddd;
+	padding: 5px;
+	min-width: 240px;
+}
+.tabs input[name="tab-control"] { display: none; } /* hide radio button */
+.tabs ul li label { color: var(--color-tab-header-active); } /* tab header text */
+
+.tabs ul {
+	list-style-type: none;
+	padding-left: 0;
+	display: flex;
+	flex-direction: row;
+	margin: 0.25em 0;
+	justify-content: space-between;
+	align-items: flex-end;
+	flex-wrap: wrap;
+}
+.tabs ul li {
+	box-sizing: border-box;
+	flex: 1;
+	width: var(--width-tab); /* 100/number of tabs % */
+	text-align: center;
+}
+.tabs ul li label {
+	transition: all 0.3s ease-in-out;
+	color: var(--color-tab-header-inactive);
+	display: block;
+	cursor: pointer;
+	transition: all 0.2s ease-in-out;
+	white-space: nowrap;
+	-webkit-touch-callout: none;
+}
+.tabs ul li label:hover, .tabs ul li label:focus, .tabs ul li label:active {
+	outline: 0;
+	color: var(--color-tab-header-semiactive);
+}
+
+/* sliding horizontal bar */
+.tabs .slider {
+	position: relative;
+	width: var(--width-tab); /* 100/number of tabs % */
+	transition: all 0.33s cubic-bezier(0.38, 0.8, 0.32, 1.07);
+}
+.tabs .slider .indicator { /* shape of sliding horizontal bar */
+	position: relative;
+	width: 50px;
+	max-width: 100%;
+	margin: 0 auto;
+	height: 2px;
+	background: var(--color-tab-header-active);
+	border-radius: 1px;
+}
+
+/* tab contents */
+.tabs .content {
+	margin-top: 30px;
+}
+.tabs .content section { /* hide inactive tab content by default */
+	display: none;
+	animation-name: content;
+	animation-direction: normal;
+	animation-duration: 0.3s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: 1;
+}
+
+/* slide horizonal bar to under new active header */
+.tabs input[name="tab-control"]:nth-of-type(1):checked ~ .slider { transform: translateX(0%); }
+.tabs input[name="tab-control"]:nth-of-type(2):checked ~ .slider { transform: translateX(100%); }
+
+/* display tab content when corresponding header is active */
+.tabs input[name="tab-control"]:nth-of-type(1):checked ~ .content > section:nth-child(1),
+.tabs input[name="tab-control"]:nth-of-type(2):checked ~ .content > section:nth-child(2) {
+	display: block;
+}
+
+/* set active header text color and cursor shape after clicked */
+.tabs input[name="tab-control"]:nth-of-type(1):checked ~ ul > li:nth-child(1) > label,
+.tabs input[name="tab-control"]:nth-of-type(2):checked ~ ul > li:nth-child(2) > label {
+	cursor: default;
+	color: var(--color-tab-header-active);
+}
+
+/* animation for tab content change */
+@keyframes content {
+	from { opacity: 0; transform: translateY(5%); }
+	to { opacity: 1; transform: translateY(0%); }
 }
