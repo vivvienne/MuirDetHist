@@ -4,10 +4,6 @@ title: test page
 permalink: /test_page
 ---
 
-<div>
-
-**TEST 1**
-
 <div class="tabs">
 <input type="radio" id="tab1" name="tab-control" checked>
 <input type="radio" id="tab2" name="tab-control">
