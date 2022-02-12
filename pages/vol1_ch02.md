@@ -14,6 +14,19 @@ Cramer; Lagrange alone of the others may have been unaffected by this particular
 
 In the fourth letter of the published correspondence between Leibnitz and De L’Hospital, the former incidentally mentions that in his algebraical investigations he occasionally uses numbers instead of letters, treating the numbers however as if they were letters. De L’Hospital, in his reply, refers to this, stating that he has some difficulty in believing that numbers can be as convenient or give as general results as letters. Thereupon Leibnitz, in his next letter (28th April 1693), proceeds with an explanation:—
 
+<div class="tabs">
+<input type="radio" id="tab1" name="tab-control" checked>
+<input type="radio" id="tab2" name="tab-control">
+<ul>
+<li title="Original text in Muir's"><label for="tab1" role="button">Original<!--tab header--></label></li>
+<li title="English translation"><label for="tab2" role="button">English<!--tab header--></label></li>
+</ul>
+<div class="slider">
+<div class="indicator"></div>
+</div>
+<div class="content">
+<section markdown="1">
+
 > "Puisque vous dites que vous avés de la peine à croire qu’il soit aussi general et aussi commode de se servir des nombres que des lettres, il faut que je ne me sois pas bien expliqué. On ne sçauroit douter de la generalité en considerant qu’il est permis de se servir de 2, 3, etc., comme d’*a* ou de *b*, pour veu qu’on considere que ce ne sont pas de nombres veritables. Ainsi 2.3 ne signifie point 6 mais autant qu’*ab*. Pour ce qui est de la commodité, il y en a des tres grandes, ce qui fait que je m’en sers souvent, sur tout dans les calculs longs et difficiles ou il est aisé de se tromper. Car outre la commodité de l’épreuve par des nombres, et même par l’abjection du novenaire, j’y trouve un tres grand avantage même pour l’avancement de l’Analyse. Comme c’est une ouverture assez extraordinaire, je n’en ay pas encor parlé à d’autres, mais voicy ce que c’est. Lorsqu’on a besoin de beaucoup de lettres, n’est il pas vray que ces lettres n’expriment point les rapports qu’il y a entre les grandeurs qu’elles signifient, au lieu qu’en me servant des nombres je puis exprimer ce rapport. Par
 exemple soyent proposées trois equations simples pour deux inconnues à dessein d’oster ces deux inconnues, et cela par un canon general. Je suppose
 >
@@ -55,6 +68,15 @@ exemple soyent proposées trois equations simples pour deux inconnues à dessein
 > *"Datis aequationibus quotcunque sufficientibus ad tollendas quantitates, quae simplicem gradum non egrediuntur, pro aequatione prodeunte, primo sumendae sunt omnes combinationes possibiles, quas ingreditur una tantum coefficiens uniuscujusque aequationis: secundo, eae combinationes opposita habent signa, si in eodem aequationis prodeuntis latere ponantur, quae habent tot coefficientes communes, quot sunt unitates in numero quantitatum tollendarum unitate minuto: caeterae habent eadem signa.*
 > 
 > "J’avoue que dans ce cas des degrés simples on auroit peut estre decouvert le même theoreme en ne se servant que de lettres à l’ordinaire, mais non pas si aisement, et ces adresses sont encor bien plus necessaires, pour decouvrir des theoremes qni servent à oster les inconnues montées à des degrés plus hauts. Par exemple, ...."
+
+</section>
+<section markdown="1">
+
+*CONTENT_2* **English translation**
+
+</section>
+</div>
+</div>
 
 [^v1ch01-leibniz1693-1]: This is written shortly for $$\left.\begin{align*} + 10 . 22 + 11 . 22x &= 0 \\ - 12 . 20 - 12 . 21x &= 0\end{align*} \right\}$$.
 
