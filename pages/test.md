@@ -17,11 +17,11 @@ permalink: /test_page
 <span class="content">
 <span class="section">
 
-*CONTENT_1* **Original text**
+span text *CONTENT_1* **Original text**
 
 </span>
 <span class="section">
-*CONTENT_2* **English translation**
+span text *CONTENT_2* **English translation**
 </span>
 </span>
 </span>
