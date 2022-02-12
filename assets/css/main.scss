@@ -1,7 +1,7 @@
 ---
 ---
 :root{
-	--color-tab-header-active: #428bff;
+	--color-tab-header-active: #ff2400;
 	--color-tab-header-inactive: #222222;
 	--color-tab-header-semiactive: #888888;
 	--number-of-tabs: 2;
@@ -35,10 +35,17 @@ $rss-color: #ff6600;
 
 @import "-sections-dir";
 
+blockquote {
+	color: #777;
+	border-left: 0.15em solid currentColor;
+}
+
 .page-content {
 	max-width: 900px;
 	font-size: 1.3em;
+	font-feature-settings: "onum";
 }
+
 .footnotes {
 	border-top: 1px solid currentColor;
 }
@@ -60,7 +67,7 @@ $rss-color: #ff6600;
 	padding-left: 0;
 	display: flex;
 	flex-direction: row;
-	margin: 0.25em 0;
+	margin: 0.25em 0 -0.25em 0;
 	justify-content: space-between;
 	align-items: flex-end;
 	flex-wrap: wrap;
@@ -102,9 +109,7 @@ $rss-color: #ff6600;
 }
 
 /* tab contents */
-.tabs .content {
-	margin-top: 30px;
-}
+/* .tabs .content { margin-top: 30px; } */
 .tabs .content section { /* hide inactive tab content by default */
 	display: none;
 	animation-name: content;
