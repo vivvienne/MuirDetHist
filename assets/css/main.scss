@@ -44,6 +44,10 @@ $rss-color: #ff6600;
 }
 
 /*----- BOX WITH TABS ------*/
+/* abuse <span> as <div> and <section> */
+span.tabs, span.slider, span.indicator, span.content, span.section {
+	display: block;
+}
 .tabs {
 	left: 50%;
 	transform: translateX(-50%);
@@ -105,7 +109,7 @@ $rss-color: #ff6600;
 .tabs .content {
 	margin-top: 30px;
 }
-.tabs .content section { /* hide inactive tab content by default */
+.tabs .content span.section { /* hide inactive tab content by default */
 	display: none;
 	animation-name: content;
 	animation-direction: normal;
@@ -119,8 +123,8 @@ $rss-color: #ff6600;
 .tabs input[name="tab-control"]:nth-of-type(2):checked ~ .slider { transform: translateX(100%); }
 
 /* display tab content when corresponding header is active */
-.tabs input[name="tab-control"]:nth-of-type(1):checked ~ .content > section:nth-child(1),
-.tabs input[name="tab-control"]:nth-of-type(2):checked ~ .content > section:nth-child(2) {
+.tabs input[name="tab-control"]:nth-of-type(1):checked ~ .content > span.section:nth-child(1),
+.tabs input[name="tab-control"]:nth-of-type(2):checked ~ .content > span.section:nth-child(2) {
 	display: block;
 }
 

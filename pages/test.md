@@ -4,29 +4,27 @@ title: test page
 permalink: /test_page
 ---
 
-<div class="tabs">
+<span class="tabs">
 <input type="radio" id="tab1" name="tab-control" checked>
 <input type="radio" id="tab2" name="tab-control">
 <ul>
 <li title="show original text"><label for="tab1" role="button">Original<!--tab header--></label></li>
 <li title="show English translation"><label for="tab2" role="button">English<!--tab header--></label></li>
 </ul>
-<div class="slider">
-<div class="indicator"></div>
-</div>
-<div class="content">
-<section>
+<span class="slider">
+<span class="indicator"></span>
+</span>
+<span class="content">
+<span class="section">
 
 *CONTENT_1* **Original text**
 
-</section>
-<section>
-
+</span>
+<span class="section">
 *CONTENT_2* **English translation**
-
-</section>
-</div>
-</div>
+</span>
+</span>
+</span>
 
 [^v1ch01-leibniz1693-1]: This is written shortly for $$\left.\begin{align*} + 10 . 22 + 11 . 22x &= 0 \\ - 12 . 20 - 12 . 21x &= 0\end{align*} \right\}$$.
 
