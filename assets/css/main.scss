@@ -1,9 +1,12 @@
 ---
 ---
 :root{
-	--color-tab-header-active: #ff2400;
-	--color-tab-header-inactive: #222222;
-	--color-tab-header-semiactive: #888888;
+	--color-highlight: #ff2400;
+	--color-dim: #777;
+	--color-link: var(--color-highlight);
+	--color-tab-header-active: var(--color-highlight);
+	--color-tab-header-inactive: inherit;
+	--color-tab-header-semiactive: var(--color-dim);
 	--number-of-tabs: 2;
 	--width-tab: calc(100% / var(--number-of-tabs));
 }
@@ -36,7 +39,7 @@ $rss-color: #ff6600;
 @import "-sections-dir";
 
 blockquote {
-	color: #777;
+	color: var(--color-dim);
 	border-left: 0.15em solid currentColor;
 }
 
@@ -105,6 +108,12 @@ blockquote {
 	height: 2px;
 	background: var(--color-tab-header-active);
 	border-radius: 1px;
+}
+
+/* link style and color */
+.container a {
+	text-decoration: none;
+	color: var(--color-link);
 }
 
 /* fix MathJax auto-sizing equations too big */
