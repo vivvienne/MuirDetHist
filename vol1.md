@@ -328,9 +328,9 @@ equated to zero is the result of eliminating the unknowns from a set of simple e
 	>
 	> *Given any number of equations which is sufficient for eliminating the unknown quantities which do not exceed the first degree:—for the final equation are to be taken, first, all possible combinations of coefficients, in which one coefficient only from each equation is to enter; secondly, those combinations, after they are placed on the same side of the final equation, have different signs if they have as many factors alike as is indicated by the number which is less by one than the number of unknown quantities: the rest have the same sign.*
 
-	(The following paragraph is obtained via Google Translate)
+	The following paragraph is obtained via Google Translate.
 
-	I admit that in this case of simple degrees one would perhaps have discovered the same theorem by using only ordinary letters, but not so easily, and these addresses are still much more necessary, to discover theorems which are used to remove the unknowns mounted to higher degrees. For example, ....
+	> I admit that in this case of simple degrees one would perhaps have discovered the same theorem by using only ordinary letters, but not so easily, and these addresses are still much more necessary, to discover theorems which are used to remove the unknowns mounted to higher degrees. For example, ....
 
 	[^Thomas-Freeman-Cope-note-1]: (English translator's note) [*I.e.* numbers in place of letters.]
 
