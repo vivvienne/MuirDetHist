@@ -244,7 +244,7 @@ exemple soyent proposées trois equations simples pour deux inconnues à dessein
 >
 > *"Datis aequationibus quotcunque sufficientibus ad tollendas quantitates, quae simplicem gradum non egrediuntur, pro aequatione prodeunte, primo sumendae sunt omnes combinationes possibiles, quas ingreditur una tantum coefficiens uniuscujusque aequationis: secundo, eae combinationes opposita habent signa, si in eodem aequationis prodeuntis latere ponantur, quae habent tot coefficientes communes, quot sunt unitates in numero quantitatum tollendarum unitate minuto: caeterae habent eadem signa.*
 > 
-> "J’avoue que dans ce cas des degrés simples on auroit peut estre decouvert le même theoreme en ne se servant que de lettres à l’ordinaire, mais non pas si aisement, et ces adresses sont encor bien plus necessaires, pour decouvrir des theoremes qni servent à oster les inconnues montées à des degrés plus hauts. Par exemple, ...."
+> "J’avoue que dans ce cas des degrés simples on auroit peut estre decouvert le même theoreme en ne se servant que de lettres à l’ordinaire, mais non pas si aisement, et ces adresses sont encor bien plus necessaires, pour decouvrir des theoremes qui servent à oster les inconnues montées à des degrés plus hauts. Par exemple, ...."
 
 [^v1ch01-leibniz1693-1]: This is written shortly for $$\left.\begin{align*} + 10 . 22 + 11 . 22x &= 0 \\ - 12 . 20 - 12 . 21x &= 0\end{align*} \right\}$$.
 
