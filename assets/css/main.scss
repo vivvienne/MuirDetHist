@@ -111,14 +111,13 @@ blockquote {
 }
 
 /* link style and color */
-.container a {
-	text-decoration: none;
+.page-content a {
 	color: var(--color-link);
 }
 
 /* fix MathJax auto-sizing equations too big */
 .MathJax[style*='font-size'] {
-	font-size: 1em;
+	font-size: 1em !important;
 }
 
 /* tab contents */
