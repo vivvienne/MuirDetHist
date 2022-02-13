@@ -283,9 +283,9 @@ algebra may be looked upon as three in number:—
 equated to zero is the result of eliminating the unknowns from a set of simple equations. (<span style='font-variant: small-caps'>ii</span>.)
 3. A rule for *determining the signs* of the terms in the said result. (<span style='font-variant: small-caps'>iii<span>.)
 
-[^v1ch01-leibniz1693-EN-1]: The following English translation by Thomas Freeman Cope is from Translation from Smith, D. E., & Cope, T. F. (1929). Leibniz on Determinants. In *A source book in Mathematics* (pp. 267–269). essay, McGraw-Hill book company, inc. ([online copy](https://archive.org/details/sourcebookinmath00smit/page/267/mode/2up) @ The Internet Archive)
+[^v1ch01-leibniz1693-EN-1]: English translation by Thomas Freeman Cope, from Smith, D. E., & Cope, T. F. (1929). Leibniz on Determinants. In *A source book in Mathematics* (pp. 267–269). essay, McGraw-Hill book company, inc. ([online copy](https://archive.org/details/sourcebookinmath00smit/page/267/mode/2up) @ The Internet Archive) English translation of last translation via Google Translate, added by MuirDetHist.
 
-	> Since you say that you have difficulty in believing that it is as general and as convenient to use numbers instead of letters, I must not have explained myself very well. There can be no doubt about the generality if one considers that it is permissible to use 2, 3, etc., like *a* or *b*, provided that it is understood that these are not really numbers. Thus 2 . 3 does *not* denote 6 but rather *ab*. As regards convenience, it is so considerable that I myself often use them[^translator-note-1] especially in long and difficult computations where it is easy to make mistakes. For besides the convenience of checking by numbers and even by the casting out of nines, I find their use a very great advantage even in the analysis itself. As this is quite an extraordinary discovery, I have not yet spoken to any others about it, but here is what it is. When one has need of many letters, is it not true that these letters do not at all express the relationship among the magnitudes they represent, while by the use of numbers I am able to express this relationship. For example, consider three simple equations in two unknowns, the object being to eliminate the two unknowns and indeed by a general law. I suppose that
+	> Since you say that you have difficulty in believing that it is as general and as convenient to use numbers instead of letters, I must not have explained myself very well. There can be no doubt about the generality if one considers that it is permissible to use 2, 3, etc., like *a* or *b*, provided that it is understood that these are not really numbers. Thus 2 . 3 does *not* denote 6 but rather *ab*. As regards convenience, it is so considerable that I myself often use them[^Thomas-Freeman-Cope-note-1] especially in long and difficult computations where it is easy to make mistakes. For besides the convenience of checking by numbers and even by the casting out of nines, I find their use a very great advantage even in the analysis itself. As this is quite an extraordinary discovery, I have not yet spoken to any others about it, but here is what it is. When one has need of many letters, is it not true that these letters do not at all express the relationship among the magnitudes they represent, while by the use of numbers I am able to express this relationship. For example, consider three simple equations in two unknowns, the object being to eliminate the two unknowns and indeed by a general law. I suppose that
 	>
 	> $$
 	> \begin{align*}
@@ -302,13 +302,13 @@ equated to zero is the result of eliminating the unknowns from a set of simple e
 	> \begin{array}{c} + 10 . 22 + 11 . 22x \\ - 12 . 20 - 12 . 21..\end{array} = 0 \tag{4}
 	> $$
 	>
-	> [^translator-note-2] and from the first and third:
+	> [^Thomas-Freeman-Cope-note-2] and from the first and third:
 	>
 	> $$
 	> \begin{array}{c} + 10 . 32 + 11 . 32x \\ - 12 . 30 - 12 . 31..\end{array} = 0 \tag{5}
 	> $$
 	> 
-	> where it is easy to recognize that these two equations differ only in that the anterior character 2 is changed to the anterior character 3. Moreover, in similar terms of an equation, the anterior characters are the same and the posterior characters have the same sum. It remains now to eliminate the letter *x* from the fourth and fifth equations, and, as the result, we shall have:[^translator-note-3]
+	> where it is easy to recognize that these two equations differ only in that the anterior character 2 is changed to the anterior character 3. Moreover, in similar terms of an equation, the anterior characters are the same and the posterior characters have the same sum. It remains now to eliminate the letter *x* from the fourth and fifth equations, and, as the result, we shall have:[^Thomas-Freeman-Cope-note-3]
 	>
 	> $$
 	> \begin{array}{c}
@@ -328,10 +328,14 @@ equated to zero is the result of eliminating the unknowns from a set of simple e
 	>
 	> *Given any number of equations which is sufficient for eliminating the unknown quantities which do not exceed the first degree:—for the final equation are to be taken, first, all possible combinations of coefficients, in which one coefficient only from each equation is to enter; secondly, those combinations, after they are placed on the same side of the final equation, have different signs if they have as many factors alike as is indicated by the number which is less by one than the number of unknown quantities: the rest have the same sign.*
 
-	[^translator-note-1]: [*I.e.* numbers in place of letters.]
+	(The following paragraph is obtained via Google Translate)
 
-	[^translator-note-2]: [This is an abbreviated form, as Muir points out, for $$\left.\left.\begin{align*} + 10 . 22 + 11 . 22x &= 0 \\ - 12 . 20 - 12 . 21x &= 0\end{align*} \right\}\right]$$.
+	I admit that in this case of simple degrees one would perhaps have discovered the same theorem by using only ordinary letters, but not so easily, and these addresses are still much more necessary, to discover theorems which are used to remove the unknowns mounted to higher degrees. For example, ....
 
-	[^translator-note-3]: [The notation here has been slightly changed. What is clearly meant is, as Muir notes,
+	[^Thomas-Freeman-Cope-note-1]: (English translator's note) [*I.e.* numbers in place of letters.]
+
+	[^Thomas-Freeman-Cope-note-2]: (English translator's note) [This is an abbreviated form, as Muir points out, for $$\left.\left.\begin{align*} + 10 . 22 + 11 . 22x &= 0 \\ - 12 . 20 - 12 . 21x &= 0\end{align*} \right\}\right]$$.
+
+	[^Thomas-Freeman-Cope-note-3]: (English translator's note) [The notation here has been slightly changed. What is clearly meant is, as Muir notes,
 
 		$$10.21.32 + 11.22.30 + 12.20.31 = 10.22.31 + 11.20.32 + 12.21.30.]$$

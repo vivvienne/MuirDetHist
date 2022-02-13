@@ -74,7 +74,7 @@ exemple soyent proposées trois equations simples pour deux inconnues à dessein
 </section>
 <section markdown="1">
 
-Translation from Smith, D. E., & Cope, T. F. (1929). Leibniz on Determinants. In *A source book in Mathematics* (pp. 267–269). essay, McGraw-Hill book company, inc. ([online copy](https://archive.org/details/sourcebookinmath00smit/page/267/mode/2up) @ The Internet Archive)
+English translation (of all except the last paragraph) by Thomas Freeman Cope, from Smith, D. E., & Cope, T. F. (1929). Leibniz on Determinants. In *A source book in Mathematics* (pp. 267–269). essay, McGraw-Hill book company, inc. ([online copy](https://archive.org/details/sourcebookinmath00smit/page/267/mode/2up) @ The Internet Archive). English translation of last translation via Google Translate, added by MuirDetHist.
 
 > Since you say that you have difficulty in believing that it is as general and as convenient to use numbers instead of letters, I must not have explained myself very well. There can be no doubt about the generality if one considers that it is permissible to use 2, 3, etc., like *a* or *b*, provided that it is understood that these are not really numbers. Thus 2 . 3 does *not* denote 6 but rather *ab*. As regards convenience, it is so considerable that I myself often use them[^Thomas-Freeman-Cope-note-1] especially in long and difficult computations where it is easy to make mistakes. For besides the convenience of checking by numbers and even by the casting out of nines, I find their use a very great advantage even in the analysis itself. As this is quite an extraordinary discovery, I have not yet spoken to any others about it, but here is what it is. When one has need of many letters, is it not true that these letters do not at all express the relationship among the magnitudes they represent, while by the use of numbers I am able to express this relationship. For example, consider three simple equations in two unknowns, the object being to eliminate the two unknowns and indeed by a general law. I suppose that
 >
@@ -118,6 +118,10 @@ suspect at first glance some rules or theorems. For example, eliminating *y* fir
 what I have found it to be on other occasions:—
 >
 > *Given any number of equations which is sufficient for eliminating the unknown quantities which do not exceed the first degree:—for the final equation are to be taken, first, all possible combinations of coefficients, in which one coefficient only from each equation is to enter; secondly, those combinations, after they are placed on the same side of the final equation, have different signs if they have as many factors alike as is indicated by the number which is less by one than the number of unknown quantities: the rest have the same sign.*
+>
+> (The following paragraph is obtained via Google Translate)
+>
+> I admit that in this case of simple degrees one would perhaps have discovered the same theorem by using only ordinary letters, but not so easily, and these addresses are still much more necessary, to discover theorems which are used to remove the unknowns mounted to higher degrees. For example, ....
 
 </section>
 </div>
@@ -129,11 +133,11 @@ what I have found it to be on other occasions:—
 
 	$$10.21.32 + 11.22.30 + 12.20.31 = 10.22.31 + 11.20.32 + 12.21.30.$$
 
-[^Thomas-Freeman-Cope-note-1]: [*I.e.* numbers in place of letters.]
+[^Thomas-Freeman-Cope-note-1]: (English translator's note) [*I.e.* numbers in place of letters.]
 
-[^Thomas-Freeman-Cope-note-2]: [This is an abbreviated form, as Muir points out, for $$\left.\left.\begin{align*} + 10 . 22 + 11 . 22x &= 0 \\ - 12 . 20 - 12 . 21x &= 0\end{align*} \right\}\right]$$.
+[^Thomas-Freeman-Cope-note-2]: (English translator's note) [This is an abbreviated form, as Muir points out, for $$\left.\left.\begin{align*} + 10 . 22 + 11 . 22x &= 0 \\ - 12 . 20 - 12 . 21x &= 0\end{align*} \right\}\right]$$.
 
-[^Thomas-Freeman-Cope-note-3]: [The notation here has been slightly changed. What is clearly meant is, as Muir notes,
+[^Thomas-Freeman-Cope-note-3]: (English translator's note) [The notation here has been slightly changed. What is clearly meant is, as Muir notes,
 
 	$$10.21.32 + 11.22.30 + 12.20.31 = 10.22.31 + 11.20.32 + 12.21.30.]$$
 
