@@ -42,7 +42,9 @@ exemple soyent proposées trois equations simples pour deux inconnues à dessein
 >
 > $$
 > \begin{array}{c} + 10 . 22 + 11 . 22x \\ - 12 . 20 - 12 . 21..\end{array} = 0 \tag{4}
-> $$[^v1ch01-leibniz1693-1] et par la premiere et troisieme nous aurons:
+> $$
+>
+> [^v1ch01-leibniz1693-1] et par la premiere et troisieme nous aurons:
 >
 > $$
 > \begin{array}{c} + 10 . 32 + 11 . 32x \\ - 12 . 30 - 12 . 31..\end{array} = 0 \tag{5}
