@@ -379,7 +379,7 @@ Although Gerhardt, the editor, states that the original manuscript of Leibnitz, 
 
 	$$10.21.32 + 11.22.30 + 12.20.31 = 10.22.31 + 11.20.32 + 12.21.30.]$$
 
-[^v1ch01-leibniz1693-EN-2] English translation by Thomas Freeman Cope, from Smith, D. E., & Cope, T. F. (1929). Leibniz on Determinants. In *A source book in Mathematics* (pp. 269–270). essay, McGraw-Hill book company, inc. ([online copy](https://archive.org/details/sourcebookinmath00smit/page/267/mode/2up) @ The Internet Archive)
+[^v1ch01-leibniz1693-EN-2]: English translation by Thomas Freeman Cope, from Smith, D. E., & Cope, T. F. (1929). Leibniz on Determinants. In *A source book in Mathematics* (pp. 269–270). essay, McGraw-Hill book company, inc. ([online copy](https://archive.org/details/sourcebookinmath00smit/page/267/mode/2up) @ The Internet Archive)
 
 	> I have found a rule for eliminating the unknowns in any number of equations of the first degree, provided that the number of equations exceeds by one the number of unknowns. It is as
 	follows:—
@@ -402,4 +402,4 @@ Although Gerhardt, the editor, states that the original manuscript of Leibnitz, 
 	>
 	> I consider also as coefficients those characters which do not belong to any of the unknowns, as 10, 20, 30.
 
-[^Thomas-Freeman-Cope-note-4]: [*I. e.*, in the same combination.]
+[^Thomas-Freeman-Cope-note-4]: (English translator's note) [*I. e.*, in the same combination.]
