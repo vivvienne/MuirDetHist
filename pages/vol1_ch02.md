@@ -169,3 +169,90 @@ algebra may be looked upon as three in number:—
 2. A rule for *forming the terms* of the expression which
 equated to zero is the result of eliminating the unknowns from a set of simple equations. (<span style='font-variant: small-caps'>ii</span>.)
 3. A rule for *determining the signs* of the terms in the said result. (<span style='font-variant: small-caps'>iii<span>.)
+
+The last of these is manifestly the least satisfactory. In the first place, part of it is awkwardly stated. Making those terms different in sign *which have only as many factors alike as is indicated by the number which is less by one than the number of unknown quantities* is exactly the same as making those terms different in sign *which have only two factors different*. Secondly, in form it is very unpractical. The only
+methodical way of putting it in use is to select a term and make it positive; then seek out a second term, having all its
+factors except two the same as those of the first term, and make this second term negative; then seek out a third term, having
+all its factors except two the same as those of the second term, and make this third term positive; and so on.
+
+Although there is evidence that Leibnitz continued, in his analytical work, to use his new notation for the coefficients of
+an equation (see Letters xi., xii., xiii. of the said correspondence), and that he thought highly of it (see Letter viii. "chez moi c’est une des meilleures ouvertures en Analyse"), it does not appear that by using it in connection with sets of linear equations, or by any other means, he went further on the way towards the subject with which we are concerned. Moreover, it must be:
+remembered that the little he did effect had no influence on succeeding workers. So far as is known, the passage above quoted from his correspondence with De L'Hospital was not
+published until 1850. Even for some little time after the date of Gerhardt's publication it escaped observation, Lejeune Dirichlet being the first to note its historical importance. It is true that during his own lifetime, Leibnitz's *use of numbers in place of letters* was made known to the world in the *Acta Eruditorum* of Leipzig for the year 1700 (*Responsio ad Dn. Nic. Fatii Duillerii imputationes*, pp. 189-208); but the particular application of the new symbols which brings them into connection with determinants was not there given.
+
+In a subsequent volume of *Leibnizens mathematische Schriften*,—the third volume of the second Abtheilung,—published at
+Halle in 1863, the following equivalent of the above 'théorème général' appears (pp. 5-6):—[^v1ch01-leibniz1693-EN-2]
+
+<div class="tabs">
+<input type="radio" id="tab1" name="tab-control" checked>
+<input type="radio" id="tab2" name="tab-control">
+<ul>
+<li title="Original text in Muir's"><label for="tab1" role="button">Original</label></li>
+<li title="English translation"><label for="tab2" role="button">English<</label></li>
+</ul>
+
+<div class="slider">
+<div class="indicator"></div>
+</div>
+
+<div class="content">
+<section markdown="1">
+
+> "Inveni Canonem pro tollendis incognitis quotcunque aequationes non nisi simplici gradu ingredientibus, ponendo aequationum numerum excedere unitate numerum incognitarum. Id ita habet.
+>
+> Fiant omnes combinationes possibiles literarum coefficientium ita ut
+nunquam concurrant plures coefficientes ejusdem incognitae et ejusdem
+aequationis. Hae combinationes affectae signis, ut mox sequetur, componuntur simul, compositumque aequatum nihilo dabit aequationem omnibus incognitis carentem.
+>
+> Lex signorum haec ist. Uni ex combinationibus assignetur signum
+pro arbitrio, et caeterae combinationes quae ab hac differunt, coefficientibus duabus, quatuor, sex etc. habebunt signum oppositum ipsius signo: quae vero ab hac differunt coefficientibus tribus, quinque, septem etc. habebunt signum idem cum ipsius signo. Ex. gr. sit
+>
+> $$
+> \begin{array}{ccc}
+> 10 + 11x + 12y = 0, & 20 + 21x + 22y = 0, & 30 + 31x + 32y = 0;
+> \end{array}
+> $$
+>
+> fiet
+> 
+> $$
+> \begin{split} + 10 . 21 . 32 - 10 . 22 . 31 - 11 . 20 . 32 \\ + 11 . 22 . 30 + 12 . 20 . 31 - 12 . 21 . 30 &= 0 \end{split}
+> $$
+>
+> Coefficientibus eas literas computo, quae sunt nullius incognitorum, ut 10, 20, 30."
+
+</section>
+<section markdown="1">
+
+English translation by Thomas Freeman Cope, from Smith, D. E., & Cope, T. F. (1929). Leibniz on Determinants. In *A source book in Mathematics* (pp. 269–270). essay, McGraw-Hill book company, inc. ([online copy](https://archive.org/details/sourcebookinmath00smit/page/267/mode/2up) @ The Internet Archive)
+
+> I have found a rule for eliminating the unknowns in any number of equations of the first degree, provided that the number of equations exceeds by one the number of unknowns. It is as
+follows:—
+>
+> Make all possible combinations of the coefficients of the letters, in such a way that more than one coefficient of the same unknown and of the same equation never appear together.[^Thomas-Freeman-Cope-note-4] These combinations, which are to be given signs in accordance with the law which will soon be stated, are placed together, and the result set equal to zero will give an equation lacking all the unknowns.
+>
+> The law of signs is this:—To one of the combinations a sign will be arbitrarily assigned, and the other combinations which differ from this one with respect to two, four, six, etc. factors will take the opposite sign: those which differ from it with respect to three, five, seven, etc. factors will of course take its own sign. For example, let
+>
+> $$
+> \begin{array}{ccc}
+> 10 + 11x + 12y = 0, & 20 + 21x + 22y = 0, & 30 + 31x + 32y = 0;
+> \end{array}
+> $$
+>
+> there will result
+> 
+> $$
+> \begin{split} + 10 . 21 . 32 - 10 . 22 . 31 - 11 . 20 . 32 \\ + 11 . 22 . 30 + 12 . 20 . 31 - 12 . 21 . 30 &= 0 \end{split}
+> $$
+>
+> I consider also as coefficients those characters which do not belong to any of the unknowns, as 10, 20, 30.
+
+</section>
+</div>
+</div>
+
+[^Thomas-Freeman-Cope-note-4]: (English translator's note) [*I. e.*, in the same combination.]
+
+Although Gerhardt, the editor, states that the original manuscript of Leibnitz, from which this is taken, bears no date, it is very probable to date farther back than 1693, and not impossible to belong to 1678.[^v1ch01-leibniz1693-4]
+
+[^v1ch01-leibniz1693-4]: See also <span style='font-variant: small-caps'>Gerhardt</span>, K. I., Leibniz über die Determinanten, *Sitzungsb. Acad. d. Wiss.* (Berlin), 1891, pp. 407-423.
