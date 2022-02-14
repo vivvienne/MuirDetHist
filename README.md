@@ -10,7 +10,7 @@ An ongoing project to convert [Thomas Muir's works on the history of determinant
 
 ## Progress
 Please note that my main aim is to read the book, manually correcting on the way, so the conversion process is expected to be very slow.
-- vol 1 ![](https://progress-bar.dev/8/?scale=491&width=500&color=babaca&suffix=/491)
+- vol 1 ![](https://progress-bar.dev/9/?scale=491&width=500&color=babaca&suffix=/491)
   - [single markdown file](vol1.md)
   - [read on the web](https://vivvienne.github.io/MuirDetHist/)
 
