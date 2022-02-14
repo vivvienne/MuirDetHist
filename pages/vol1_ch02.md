@@ -181,7 +181,7 @@ remembered that the little he did effect had no influence on succeeding workers.
 published until 1850. Even for some little time after the date of Gerhardt's publication it escaped observation, Lejeune Dirichlet being the first to note its historical importance. It is true that during his own lifetime, Leibnitz's *use of numbers in place of letters* was made known to the world in the *Acta Eruditorum* of Leipzig for the year 1700 (*Responsio ad Dn. Nic. Fatii Duillerii imputationes*, pp. 189-208); but the particular application of the new symbols which brings them into connection with determinants was not there given.
 
 In a subsequent volume of *Leibnizens mathematische Schriften*,—the third volume of the second Abtheilung,—published at
-Halle in 1863, the following equivalent of the above 'théorème général' appears (pp. 5-6):—[^v1ch01-leibniz1693-EN-2]
+Halle in 1863, the following equivalent of the above 'théorème général' appears (pp. 5-6):—
 
 <div class="tabs">
 <input type="radio" id="v1_ch02_leibniz1963_2_tab1" name="tab-control" checked>
