@@ -15,11 +15,11 @@ Cramer; Lagrange alone of the others may have been unaffected by this particular
 In the fourth letter of the published correspondence between Leibnitz and De L’Hospital, the former incidentally mentions that in his algebraical investigations he occasionally uses numbers instead of letters, treating the numbers however as if they were letters. De L’Hospital, in his reply, refers to this, stating that he has some difficulty in believing that numbers can be as convenient or give as general results as letters. Thereupon Leibnitz, in his next letter (28th April 1693), proceeds with an explanation:—
 
 <div class="tabs">
-<input type="radio" id="tab1" name="tab-control" checked>
-<input type="radio" id="tab2" name="tab-control">
+<input type="radio" id="v1_ch02_leibniz1963_1_tab1" name="tab-control" checked>
+<input type="radio" id="v1_ch02_leibniz1963_1_tab2" name="tab-control">
 <ul>
-<li title="Original text in Muir's"><label for="tab1" role="button">Original<!--tab header--></label></li>
-<li title="English translation"><label for="tab2" role="button">English<!--tab header--></label></li>
+<li title="Original text in Muir's"><label for="v1_ch02_leibniz1963_1_tab1" role="button">Original<!--tab header--></label></li>
+<li title="English translation"><label for="v1_ch02_leibniz1963_1_tab2" role="button">English<!--tab header--></label></li>
 </ul>
 <div class="slider">
 <div class="indicator"></div>
@@ -184,11 +184,11 @@ In a subsequent volume of *Leibnizens mathematische Schriften*,—the third volu
 Halle in 1863, the following equivalent of the above 'théorème général' appears (pp. 5-6):—[^v1ch01-leibniz1693-EN-2]
 
 <div class="tabs">
-<input type="radio" id="tab1" name="tab-control" checked>
-<input type="radio" id="tab2" name="tab-control">
+<input type="radio" id="v1_ch02_leibniz1963_2_tab1" name="tab-control" checked>
+<input type="radio" id="v1_ch02_leibniz1963_2_tab2" name="tab-control">
 <ul>
-<li title="Original text in Muir's"><label for="tab1" role="button">Original</label></li>
-<li title="English translation"><label for="tab2" role="button">English<</label></li>
+<li title="Original text in Muir's"><label for="v1_ch02_leibniz1963_2_tab1" role="button">Original</label></li>
+<li title="English translation"><label for="v1_ch02_leibniz1963_2_tab2" role="button">English</label></li>
 </ul>
 
 <div class="slider">
