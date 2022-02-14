@@ -61,7 +61,7 @@ blockquote {
 	padding: 5px;
 	min-width: 240px;
 }
-.tabs input[name="tab-control"] { display: none; } /* hide radio button */
+.tabs input.tab-control { display: none; } /* hide radio button */
 .tabs ul li label { color: var(--color-tab-header-active); } /* tab header text */
 
 .tabs ul {
@@ -132,18 +132,18 @@ blockquote {
 }
 
 /* slide horizonal bar to under new active header */
-.tabs input[name="tab-control"]:nth-of-type(1):checked ~ .slider { transform: translateX(0%); }
-.tabs input[name="tab-control"]:nth-of-type(2):checked ~ .slider { transform: translateX(100%); }
+.tabs input.tab-control:nth-of-type(1):checked ~ .slider { transform: translateX(0%); }
+.tabs input.tab-control:nth-of-type(2):checked ~ .slider { transform: translateX(100%); }
 
 /* display tab content when corresponding header is active */
-.tabs input[name="tab-control"]:nth-of-type(1):checked ~ .content > section:nth-child(1),
-.tabs input[name="tab-control"]:nth-of-type(2):checked ~ .content > section:nth-child(2) {
+.tabs input.tab-control:nth-of-type(1):checked ~ .content > section:nth-child(1),
+.tabs input.tab-control:nth-of-type(2):checked ~ .content > section:nth-child(2) {
 	display: block;
 }
 
 /* set active header text color and cursor shape after clicked */
-.tabs input[name="tab-control"]:nth-of-type(1):checked ~ ul > li:nth-child(1) > label,
-.tabs input[name="tab-control"]:nth-of-type(2):checked ~ ul > li:nth-child(2) > label {
+.tabs input.tab-control:nth-of-type(1):checked ~ ul > li:nth-child(1) > label,
+.tabs input.tab-control:nth-of-type(2):checked ~ ul > li:nth-child(2) > label {
 	cursor: default;
 	color: var(--color-tab-header-active);
 }
