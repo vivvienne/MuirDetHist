@@ -17,3 +17,9 @@ A @<<< B @>>> C\\
 @. D @= E
 \end{CD}
 $$
+
+```css
+body {
+	font-family: 'Arial';
+}
+```
