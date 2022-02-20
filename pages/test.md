@@ -18,8 +18,9 @@ A @<<< B @>>> C\\
 \end{CD}
 $$
 
-```css
-body {
-	font-family: 'Arial';
-}
+```yaml
+markdown:            kramdown
+highlighter:         rouge
+permalink:           /:title
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 ```
