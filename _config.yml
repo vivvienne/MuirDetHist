@@ -9,10 +9,6 @@ highlighter:         rouge
 permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
-
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "MuirDetHist"
 description:	       "Thomas Muir's works on the history of determinants in Markdown"
