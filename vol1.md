@@ -204,8 +204,7 @@ Cramer; Lagrange alone of the others may have been unaffected by this particular
 
 In the fourth letter of the published correspondence between Leibnitz and De L’Hospital, the former incidentally mentions that in his algebraical investigations he occasionally uses numbers instead of letters, treating the numbers however as if they were letters. De L’Hospital, in his reply, refers to this, stating that he has some difficulty in believing that numbers can be as convenient or give as general results as letters. Thereupon Leibnitz, in his next letter (28th April 1693), proceeds with an explanation:—[^v1ch01-leibniz1693-EN-1]
 
-> "Puisque vous dites que vous avés de la peine à croire qu’il soit aussi general et aussi commode de se servir des nombres que des lettres, il faut que je ne me sois pas bien expliqué. On ne sçauroit douter de la generalité en considerant qu’il est permis de se servir de 2, 3, etc., comme d’*a* ou de *b*, pour veu qu’on considere que ce ne sont pas de nombres veritables. Ainsi 2.3 ne signifie point 6 mais autant qu’*ab*. Pour ce qui est de la commodité, il y en a des tres grandes, ce qui fait que je m’en sers souvent, sur tout dans les calculs longs et difficiles ou il est aisé de se tromper. Car outre la commodité de l’épreuve par des nombres, et même par l’abjection du novenaire, j’y trouve un tres grand avantage même pour l’avancement de l’Analyse. Comme c’est une ouverture assez extraordinaire, je n’en ay pas encor parlé à d’autres, mais voicy ce que c’est. Lorsqu’on a besoin de beaucoup de lettres, n’est il pas vray que ces lettres n’expriment point les rapports qu’il y a entre les grandeurs qu’elles signifient, au lieu qu’en me servant des nombres je puis exprimer ce rapport. Par
-exemple soyent proposées trois equations simples pour deux inconnues à dessein d’oster ces deux inconnues, et cela par un canon general. Je suppose
+> "Puisque vous dites que vous avés de la peine à croire qu’il soit aussi general et aussi commode de se servir des nombres que des lettres, il faut que je ne me sois pas bien expliqué. On ne sçauroit douter de la generalité en considerant qu’il est permis de se servir de 2, 3, etc., comme d’*a* ou de *b*, pour veu qu’on considere que ce ne sont pas de nombres veritables. Ainsi 2.3 ne signifie point 6 mais autant qu’*ab*. Pour ce qui est de la commodité, il y en a des tres grandes, ce qui fait que je m’en sers souvent, sur tout dans les calculs longs et difficiles ou il est aisé de se tromper. Car outre la commodité de l’épreuve par des nombres, et même par l’abjection du novenaire, j’y trouve un tres grand avantage même pour l’avancement de l’Analyse. Comme c’est une ouverture assez extraordinaire, je n’en ay pas encor parlé à d’autres, mais voicy ce que c’est. Lorsqu’on a besoin de beaucoup de lettres, n’est il pas vray que ces lettres n’expriment point les rapports qu’il y a entre les grandeurs qu’elles signifient, au lieu qu’en me servant des nombres je puis exprimer ce rapport. Par exemple soyent proposées trois equations simples pour deux inconnues à dessein d’oster ces deux inconnues, et cela par un canon general. Je suppose
 >
 > $$
 > \begin{align*}
@@ -275,35 +274,25 @@ $$
 
 and that, then, *one* being the number which is less by one than the number of unknowns, he makes those terms different in sign which have only *one* factor in common.
 
-The contributions, therefore, which Leibnitz here makes to
-algebra may be looked upon as three in number:—
+The contributions, therefore, which Leibnitz here makes to algebra may be looked upon as three in number:—
 
 1. A *new notation*, numerical in character and appearance, for individual members of an arranged group of magnitudes; the two members which constitute the notation being like the Cartesian co-ordinates of a point in that they denote any one of the said magnitudes by indicating its position in the group. (<span style='font-variant: small-caps'>i</span>.)
 2. A rule for *forming the terms* of the expression which
 equated to zero is the result of eliminating the unknowns from a set of simple equations. (<span style='font-variant: small-caps'>ii</span>.)
 3. A rule for *determining the signs* of the terms in the said result. (<span style='font-variant: small-caps'>iii<span>.)
 
-The last of these is manifestly the least satisfactory. In the first place, part of it is awkwardly stated. Making those terms different in sign *which have only as many factors alike as is indicated by the number which is less by one than the number of unknown quantities* is exactly the same as making those terms different in sign *which have only two factors different*. Secondly, in form it is very unpractical. The only
-methodical way of putting it in use is to select a term and make it positive; then seek out a second term, having all its
-factors except two the same as those of the first term, and make this second term negative; then seek out a third term, having
-all its factors except two the same as those of the second term, and make this third term positive; and so on.
+The last of these is manifestly the least satisfactory. In the first place, part of it is awkwardly stated. Making those terms different in sign *which have only as many factors alike as is indicated by the number which is less by one than the number of unknown quantities* is exactly the same as making those terms different in sign *which have only two factors different*. Secondly, in form it is very unpractical. The only methodical way of putting it in use is to select a term and make it positive; then seek out a second term, having all its factors except two the same as those of the first term, and make this second term negative; then seek out a third term, having all its factors except two the same as those of the second term, and make this third term positive; and so on.
 
-Although there is evidence that Leibnitz continued, in his analytical work, to use his new notation for the coefficients of
-an equation (see Letters xi., xii., xiii. of the said correspondence), and that he thought highly of it (see Letter viii. "chez moi c’est une des meilleures ouvertures en Analyse"), it does not appear that by using it in connection with sets of linear equations, or by any other means, he went further on the way towards the subject with which we are concerned. Moreover, it must be:
-remembered that the little he did effect had no influence on succeeding workers. So far as is known, the passage above quoted from his correspondence with De L'Hospital was not
-published until 1850. Even for some little time after the date of Gerhardt's publication it escaped observation, Lejeune Dirichlet being the first to note its historical importance. It is true that during his own lifetime, Leibnitz's *use of numbers in place of letters* was made known to the world in the *Acta Eruditorum* of Leipzig for the year 1700 (*Responsio ad Dn. Nic. Fatii Duillerii imputationes*, pp. 189-208); but the particular application of the new symbols which brings them into connection with determinants was not there given.
+Although there is evidence that Leibnitz continued, in his analytical work, to use his new notation for the coefficients of an equation (see Letters xi., xii., xiii. of the said correspondence), and that he thought highly of it (see Letter viii. "chez moi c’est une des meilleures ouvertures en Analyse"), it does not appear that by using it in connection with sets of linear equations, or by any other means, he went further on the way towards the subject with which we are concerned. Moreover, it must be remembered that the little he did effect had no influence on succeeding workers. So far as is known, the passage above quoted from his correspondence with De L'Hospital was not published until 1850. Even for some little time after the date of Gerhardt's publication it escaped observation, Lejeune Dirichlet being the first to note its historical importance. It is true that during his own lifetime, Leibnitz's *use of numbers in place of letters* was made known to the world in the *Acta Eruditorum* of Leipzig for the year 1700 (*Responsio ad Dn. Nic. Fatii Duillerii imputationes*, pp. 189-208); but the particular application of the new symbols which brings them into connection with determinants was not there given.
 
 In a subsequent volume of *Leibnizens mathematische Schriften*,—the third volume of the second Abtheilung,—published at
 Halle in 1863, the following equivalent of the above 'théorème général' appears (pp. 5-6):—[^v1ch01-leibniz1693-EN-2]
 
 > "Inveni Canonem pro tollendis incognitis quotcunque aequationes non nisi simplici gradu ingredientibus, ponendo aequationum numerum excedere unitate numerum incognitarum. Id ita habet.
 >
-> Fiant omnes combinationes possibiles literarum coefficientium ita ut
-nunquam concurrant plures coefficientes ejusdem incognitae et ejusdem
-aequationis. Hae combinationes affectae signis, ut mox sequetur, componuntur simul, compositumque aequatum nihilo dabit aequationem omnibus incognitis carentem.
+> Fiant omnes combinationes possibiles literarum coefficientium ita ut nunquam concurrant plures coefficientes ejusdem incognitae et ejusdem aequationis. Hae combinationes affectae signis, ut mox sequetur, componuntur simul, compositumque aequatum nihilo dabit aequationem omnibus incognitis carentem.
 >
-> Lex signorum haec ist. Uni ex combinationibus assignetur signum
-pro arbitrio, et caeterae combinationes quae ab hac differunt, coefficientibus duabus, quatuor, sex etc. habebunt signum oppositum ipsius signo: quae vero ab hac differunt coefficientibus tribus, quinque, septem etc. habebunt signum idem cum ipsius signo. Ex. gr. sit
+> Lex signorum haec ist. Uni ex combinationibus assignetur signum pro arbitrio, et caeterae combinationes quae ab hac differunt, coefficientibus duabus, quatuor, sex etc. habebunt signum oppositum ipsius signo: quae vero ab hac differunt coefficientibus tribus, quinque, septem etc. habebunt signum idem cum ipsius signo. Ex. gr. sit
 >
 > $$
 > \begin{array}{ccc}
@@ -335,8 +324,7 @@ Although Gerhardt, the editor, states that the original manuscript of Leibnitz, 
 	> \end{align*}
 	> $$
 	>
-	> where, in the pseudo number of two digits, the first tells me the equation in which it is found, the second, the letter to which it belongs. Thus on carrying out the computation, we find throughout a harmony which not only serves as a check but even makes us
-	suspect at first glance some rules or theorems. For example, eliminating *y* first from the first and second equations, we shall have:
+	> where, in the pseudo number of two digits, the first tells me the equation in which it is found, the second, the letter to which it belongs. Thus on carrying out the computation, we find throughout a harmony which not only serves as a check but even makes us suspect at first glance some rules or theorems. For example, eliminating *y* first from the first and second equations, we shall have:
 	>
 	> $$
 	> \begin{array}{c} + 10 . 22 + 11 . 22x \\ - 12 . 20 - 12 . 21..\end{array} = 0 \tag{4}
@@ -381,8 +369,7 @@ Although Gerhardt, the editor, states that the original manuscript of Leibnitz, 
 
 [^v1ch01-leibniz1693-EN-2]: English translation by Thomas Freeman Cope, from Smith, D. E., & Cope, T. F. (1929). Leibniz on Determinants. In *A source book in Mathematics* (pp. 269–270). essay, McGraw-Hill book company, inc. ([online copy](https://archive.org/details/sourcebookinmath00smit/page/267/mode/2up) @ The Internet Archive)
 
-	> I have found a rule for eliminating the unknowns in any number of equations of the first degree, provided that the number of equations exceeds by one the number of unknowns. It is as
-	follows:—
+	> I have found a rule for eliminating the unknowns in any number of equations of the first degree, provided that the number of equations exceeds by one the number of unknowns. It is as follows:—
 	>
 	> Make all possible combinations of the coefficients of the letters, in such a way that more than one coefficient of the same unknown and of the same equation never appear together.[^Thomas-Freeman-Cope-note-4] These combinations, which are to be given signs in accordance with the law which will soon be stated, are placed together, and the result set equal to zero will give an equation lacking all the unknowns.
 	>
