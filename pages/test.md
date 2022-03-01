@@ -24,3 +24,16 @@ highlighter:         rouge
 permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 ```
+
+$$
+\begin{align*}
+\text{Formation (F)}%
+\begin{cases}
+    \begin{tabular}{p{8cm}} % adjust the width
+        I. Assist \\
+        II. Assist \\
+        III. Assist word or phrase very long word or phrase very long word or phrase very long word or phrase very long word or phrase very long word or phrase very long word or phrase very long 
+    \end{tabular}
+\end{cases}
+\end{align*}
+$$
